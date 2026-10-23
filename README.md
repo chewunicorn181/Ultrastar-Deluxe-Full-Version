@@ -239,4 +239,4 @@ This repository serves as the official landing page for UltraStar Deluxe. The so
 **Get the most recent version of UltraStar Deluxe today!**
 
 ---
-**Last updated:** 2026-10-23 09:49:13 UTC
+**Last updated:** 2026-10-23 14:47:04 UTC
